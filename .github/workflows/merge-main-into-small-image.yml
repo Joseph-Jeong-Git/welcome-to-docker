@@ -29,3 +29,4 @@ jobs:
           file: Dockerfile
           push: true
           tags: <your-dockerhub-username>/<your-dockerhub-repo>:<image-tag>
+          
